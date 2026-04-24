@@ -76,6 +76,7 @@ AI-Travel-Planner/
 ## Clone the project
 
 git clone [https://github.com/your-username/AI-Travel-Planner.git](https://github.com/mdharis98/AI-Trip-Planner.git)
+
 cd AI-Travel-Planner
 
 cd backend
